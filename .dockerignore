@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore git data
+.git/
+
+# Ignore sensitive environment variables
+.env
+
+# Ignore random scratch files and archives
+scratch/
+*.zip
+*.pptx
+start_server.py

@@ -1,0 +1,12 @@
+flask
+werkzeug
+openai
+python-dotenv
+pillow
+opencv-python-headless
+torch
+torchvision
+open-clip-torch
+faiss-cpu
+numpy
+pyngrok
